@@ -5,7 +5,7 @@
 <!-- Intro  -->
 <h3 align="center">
    Hey There!, I am
-                <b><a target="_blank" href="https://anees-ahmad.com" target="_blank" style="color:#00FDAD">Anees</a>
+                <b><a target="_blank" href="https://anees-ahmad.com" target="_blank" style="color:#00FDAD">Anees</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </b>
 </h3>
 <p align="center">
