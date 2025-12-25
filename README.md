@@ -1,16 +1,22 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=700&pause=1000&color=00FDAD&center=true&vCenter=true&width=435&lines=Personal+Branding+Expert;Visual+Branding;+Content+Design;+Web+Design)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, Welcome to XevenTech's Source Code Library!</h1>
+<img align="right" width="400" src="https://github.com/XevenTech/xeventech/blob/main/coding.gif?raw=true">
 
-<!--
-**iAneesAhmad/ianeesahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<h3 align="left">Subscribe Us on YouTube:<a href="https://www.youtube.com/@xeventechyt?sub_confirmation=1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@xeventechyt" height="30" width="40" />XevenTech</a></h3>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  
+  ![Technologies Used](https://skillicons.dev/icons?i=html,css,javascript,php,ts)
+  ![Technologies Used](https://skillicons.dev/icons?i=react,angular,tailwind,mysql,mongodb)
+  
+<br><br>
+<p align="left">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=xeventech&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="xeventech" /><br><br><br>
+<img  src="https://github-readme-stats.vercel.app/api?username=xeventech&show_icons=true&locale=en&theme=tokyonight" alt="xeventech" />
+</p>
