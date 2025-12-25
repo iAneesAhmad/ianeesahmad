@@ -15,12 +15,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=700&pause=1000&color=00FDAD&center=true&vCenter=true&width=435&height=52&lines=Personal+Branding+Expert;Visual+Branding;+Content+Design;+Web+Design" alt="Typing SVG" /></a>
 </p>
-<p align="center">     
-    「 I am a full stack web application developer from <b>Germany</b> 」
-    <br>
-    <br>
-
-</p>
 
 <p align="center">
  <a href="https://alpaycelik.dev" target="blank">
