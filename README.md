@@ -13,7 +13,7 @@
 </p>
 <p align="center">
  <a href="https://anees-ahmad.com" target="_blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white&bgColor=" alt="Anees Ahmad" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=website&logoColor=white&bgColorgreen=" alt="Anees Ahmad" />
  </a>
  <a href="https://linkedin.com/in/ianeesahmad" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anees Ahmad"/>
