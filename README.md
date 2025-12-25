@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://github.com/iAneesAhmad" >
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iAneesAhmad&theme=codeSTACKr&border=#00FDAD" alt="Anees's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iAneesAhmad&theme=codeSTACKr&border=00FDAD" alt="Anees's GitHub streak"/>
   </a>
 </p>
 
