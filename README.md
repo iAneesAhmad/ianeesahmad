@@ -15,9 +15,8 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=700&pause=1000&color=00FDAD&center=true&vCenter=true&width=435&height=52&lines=Personal+Branding+Expert;Visual+Branding;+Content+Design;+Web+Design" alt="Typing SVG" /></a>
 </p>
-
 <p align="center">
- <a href="https://anees-ahmad.com" target="blank">
+ <a href="https://anees-ahmad.com" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white&bgColor=" alt="AlpayC" />
  </a>
  <a href="https://linkedin.com/in/ianeesahmad" target="_blank">
