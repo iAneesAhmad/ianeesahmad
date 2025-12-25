@@ -24,6 +24,7 @@
 ## My Techstack
 <p>
  <img align="right" width="350" src="./coding.gif" alt="Coding man Alpay" />
+   <br /><br />
 </p>
 <p align="left"> 
   
