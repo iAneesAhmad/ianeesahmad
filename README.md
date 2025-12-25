@@ -32,7 +32,7 @@
 ## My Stats
 
 <p align="center">
-  <a href="https://github.com/iAneesAhmad" >
+  <a href="https://github.com/iAneesAhmad">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=iAneesAhmad&theme=codeSTACKr&border=9DAAF2" alt="Anees's GitHub streak"/>
   </a>
 </p>
