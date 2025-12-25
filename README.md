@@ -1,4 +1,4 @@
-<p>
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=700&pause=1000&color=00FDAD&center=true&vCenter=true&width=435&height=52&lines=Personal+Branding+Expert;Visual+Branding;+Content+Design;+Web+Design" alt="Typing SVG" /></a>
 </p>
 <h1 align="center">Hi 👋, Welcome to XevenTech's Source Code Library!</h1>
