@@ -23,9 +23,9 @@
 
 ## My Techstack
 <img align="right" width="350" src="./coding.gif" alt="Coding man Alpay" />
-<br /><br /><br /><br /><br /><br /><br />
+
 <p align="left"> 
-  
+  <br /><br /><br /><br /><br /><br /><br />
   ![Technologies Used](https://skillicons.dev/icons?i=html,css,javascript,php,ts)
   ![Technologies Used](https://skillicons.dev/icons?i=react,angular,tailwind,mysql,mongodb)
 </p>
