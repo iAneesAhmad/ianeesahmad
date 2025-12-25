@@ -27,7 +27,7 @@
   
   ![Technologies Used](https://skillicons.dev/icons?i=html,css,javascript,php,ts)
   ![Technologies Used](https://skillicons.dev/icons?i=react,angular,tailwind,mysql,mongodb)
-
+</p>
   <br /><br /><br /><br /><br /><br />
   
 ## My Stats
