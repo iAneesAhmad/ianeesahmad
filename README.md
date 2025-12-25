@@ -13,10 +13,10 @@
 </p>
 <p align="center">
  <a href="https://anees-ahmad.com" target="_blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white&bgColor=" alt="AlpayC" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white&bgColor=" alt="Anees Ahmad" />
  </a>
  <a href="https://linkedin.com/in/ianeesahmad" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AlpayC"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anees Ahmad"/>
  </a>
 </p>
 <br />
@@ -26,7 +26,7 @@
 # About me
 
 <p>
- <img align="right" width="350" src="./assets/animation.gif" alt="Coding man Alpay" />
+ <img align="right" width="350" src="./assets/animation.gif" alt="Branding Man Anees" />
 👯 &emsp; I am looking for a <code style="color:#9DAAF2"> frontend developer job</code>.<br/><br/>
 ✌️ &emsp; Enjoy to do <code style="color:#9DAAF2">programming</code> and <code style="color:#9DAAF2">sharing knowledge</code> <br/><br/>
 ❤️ &emsp; I’m currently learning <code style="color:#9DAAF2"> Next.js </code> and <code style="color:#9DAAF2">Node.js</code><br/><br/>
