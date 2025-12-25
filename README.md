@@ -1,7 +1,3 @@
-<a href="https://komarev.com/ghpvc/?username=ianeesahmad">
-    <img align="right" src="https://visitcount.itsvg.in/api?id=ianeesahmad&label=Profile%20Views&icon=2&pretty=true" />
-</a>
-
 <!-- [![wakatime](https://wakatime.com/badge/user/.svg)](https://wakatime.com/@) -->
 
 ![GitHub User's stars](https://img.shields.io/github/stars/ianeesahmad?label=Total%20Stars&color=FF6A3D)
