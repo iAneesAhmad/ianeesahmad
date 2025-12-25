@@ -22,10 +22,7 @@
 <br />
 
 ## My Techstack
-<p>
- <img align="right" width="350" src="./coding.gif" alt="Coding man Alpay" />
-   <br /><br />
-</p>
+<img align="right" width="350" src="./coding.gif" alt="Coding man Alpay" />
 <p align="left"> 
   
   ![Technologies Used](https://skillicons.dev/icons?i=html,css,javascript,php,ts)
