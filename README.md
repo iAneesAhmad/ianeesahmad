@@ -33,12 +33,6 @@
 
 <p align="center">
   <a href="https://github.com/iAneesAhmad">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iAneesAhmad&theme=codeSTACKr&border=9DAAF2" alt="Anees's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/iAneesAhmad">
     <img style="border: 2px solid #00FDAD; border-radius: 6px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iAneesAhmad&theme=codeSTACKr" alt="Anees's GitHub Contribution"/>
   </a>
 </p>
