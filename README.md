@@ -21,6 +21,12 @@
 </p>
 <br />
 
+<p>
+ <img align="right" width="350" src="./coding.gif" alt="Coding man Alpay" />
+
+</p>
+
+
 ## My Techstack
 
 ![Javascript](https://img.shields.io/badge/Javascript-09131B?style=for-the-badge&logo=javascript)
