@@ -70,7 +70,7 @@
 
 ## My Stats
 
-<p align="center">
+<p align="center">Anees's GitHub streak
   <a href="https://github.com/iAneesAhmad" >
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=iAneesAhmad&theme=codeSTACKr&border=9DAAF2" alt="Anees's GitHub streak"/>
   </a>
