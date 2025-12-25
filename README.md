@@ -5,7 +5,7 @@
 <!-- Intro  -->
 <h3 align="center">
    Hey There!, I am
-                <b><a target="_blank" href="https://anees-ahmad.com" target="_blank" style="color:#00FDAD">Anees</a>  <img src="https://github.com/iAneesAhmad/ianeesahmad/blob/main/coding.gif?raw=true" width="28">
+                <b><a target="_blank" href="https://anees-ahmad.com" target="_blank" style="color:#00FDAD">Anees</a>
 </b>
 </h3>
 <p align="center">
