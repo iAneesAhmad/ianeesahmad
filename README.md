@@ -30,8 +30,6 @@
 👯 &emsp; I am looking for a <code style="color:#9DAAF2"> frontend developer job</code>.<br/><br/>
 ✌️ &emsp; Enjoy to do <code style="color:#9DAAF2">programming</code> and <code style="color:#9DAAF2">sharing knowledge</code> <br/><br/>
 ❤️ &emsp; I’m currently learning <code style="color:#9DAAF2"> Next.js </code> and <code style="color:#9DAAF2">Node.js</code><br/><br/>
-📧 &emsp; Reach me anytime:<a style="color:#9DAAF2" href="mailto=contact@anees-ahmad.com"> contact@anees-ahmad.com</a><br/><br/>
-💬 &emsp; Ask me about anything <a style="color:#9DAAF2" href="https://github.com/iAneesAhmad/ianeesahmad/issues">here</a>
 
 </p>
 
