@@ -1,10 +1,10 @@
-<a href="https://komarev.com/ghpvc/?username=AlpayC">
+<a href="https://komarev.com/ghpvc/?username=ianeesahmad">
     <img align="right" src="https://visitcount.itsvg.in/api?id=AlpayC&label=Profile%20Views&icon=2&pretty=true" />
 </a>
 
 <!-- [![wakatime](https://wakatime.com/badge/user/.svg)](https://wakatime.com/@) -->
 
-![GitHub User's stars](https://img.shields.io/github/stars/AlpayC?label=Total%20Stars&color=FF6A3D)
+![GitHub User's stars](https://img.shields.io/github/stars/ianeesahmad?label=Total%20Stars&color=FF6A3D)
 
 <!-- Intro  -->
 <h3 align="center">
@@ -17,14 +17,11 @@
 </p>
 
 <p align="center">
- <a href="https://alpaycelik.dev" target="blank">
+ <a href="https://anees-ahmad.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white&bgColor=" alt="AlpayC" />
  </a>
- <a href="https://de.linkedin.com/in/alpay-celik" target="_blank">
+ <a href="https://linkedin.com/in/ianeesahmad" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AlpayC"/>
- </a>
- <a href="https://discord.com/invite/TqvEDzEv" target="_blank">
-  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="AlpayC"/>
  </a>
 </p>
 <br />
