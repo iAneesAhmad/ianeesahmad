@@ -26,7 +26,7 @@
   
   ![Technologies Used](https://skillicons.dev/icons?i=html,css,javascript,php,ts)
   ![Technologies Used](https://skillicons.dev/icons?i=react,angular,tailwind,mysql,mongodb)
-  ![Technologies Used](https://skillicons.dev/icons?i=figma,wordpress,adobexd,canva)
+  ![Technologies Used](https://skillicons.dev/icons?i=figma,wordpress,canva)
 </p>
   
   
