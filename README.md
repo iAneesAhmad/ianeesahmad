@@ -22,8 +22,6 @@
 <br />
 
 ## My Techstack
-<img align="right" width="350" src="./coding.gif" alt="Coding man Anees" />
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <p align="left"> 
   
   ![Technologies Used](https://skillicons.dev/icons?i=html,css,javascript,php,ts)
