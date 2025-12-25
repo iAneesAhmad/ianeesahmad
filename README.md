@@ -69,19 +69,6 @@
 
 <br/>
 
-## Top Open Source
-
-[![Silentmoons](https://github-readme-stats.vercel.app/api/pin/?username=AlpayC&repo=Fullstack_Abschlussprojekt_SilentMoon&border_color=9DAAF2&bg_color=09131B&title_color=FF6A3D&text_color=FFFFFF&icon_color=9DAAF2)](https://github.com/AlpayC/Fullstack_Abschlussprojekt_SilentMoon)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AlpayC&repo=portfolio_site&border_color=9DAAF2&bg_color=09131B&title_color=FF6A3D&text_color=FFFFFF&icon_color=9DAAF2)](https://github.com/AlpayC/portfolio_site)
-[![Instor](https://github-readme-stats.vercel.app/api/pin/?username=AlpayC&repo=Instor&border_color=9DAAF2&bg_color=09131B&title_color=FF6A3D&text_color=FFFFFF&icon_color=9DAAF2)](https://github.com/AlpayC/Instor)
-[![Tasty](https://github-readme-stats.vercel.app/api/pin/?username=AlpayC&repo=Tasty&border_color=9DAAF2&bg_color=09131B&title_color=FF6A3D&text_color=FFFFFF&icon_color=9DAAF2)](https://github.com/AlpayC/Tasty)
-
-<p align="center">
-  <a href="https://github.com/AlpayC?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-9DAAF2?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-
 ## My Stats
 
 <p align="center">
