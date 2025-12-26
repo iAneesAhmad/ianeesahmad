@@ -9,7 +9,7 @@
 </b>
 </h3>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=600&size=30&pause=1000&color=00FDAD&center=true&vCenter=true&width=435&lines=Personal+Branding+Expert;Visual+Branding;Content+Design;Web+Design" alt="Personal Branding Expert" />
+<a href="https://anees-ahmad.com"><img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=600&size=30&pause=1000&color=00FDAD&center=true&vCenter=true&width=435&lines=Personal+Branding+Expert;Visual+Branding;Content+Design;Web+Design" alt="Personal Branding Expert" /></a>
 </p>
 
 <p align="center">
