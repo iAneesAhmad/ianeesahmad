@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://anees-ahmad.com" title="Website">
-    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=website&logoColor=white&bgColor=green"/></a>
+    <img src="https://img.shields.io/badge/Website-DC143C?logo=website&logoColor=white"/></a>
   <a href="https://linkedin.com/in/ianeesahmad" title="LinkedIn">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
   <a href="https://patreon.com/AneesAhmad" title="Patreon">
