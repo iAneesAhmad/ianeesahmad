@@ -19,6 +19,16 @@
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
   <a href="https://patreon.com/AneesAhmad" title="Patreon">
     <img src="https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white"/></a>
+  <a href="https://linktr.ee/ianeesahmad" title="LinkTree">
+    <img src="https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white"/></a>
+  <a href="https://facebook.com/iAneesAhmad.pk" title="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
+   <a href="https://tiktok.com/ianeesahmad" title="TikTok">
+    <img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white"/></a>
+  <a href="https://instagram.com/iAneesAhmad.pk" title="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+  <a href="https://whatsapp.com/channel/0029Vb6cghc1t90fuRXoB70x" title="WhatsApp Channel">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/></a>
 </p>
 <br />
 
