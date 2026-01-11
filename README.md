@@ -31,12 +31,6 @@
   
 ## My Stats
 
-<p align="center">
-  <a href="https://github.com/iAneesAhmad">
-    <img style="border: 2px solid #00FDAD; border-radius: 6px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iAneesAhmad&theme=codeSTACKr" alt="Anees's GitHub Contribution"/>
-  </a>
-</p>
-
 <a> 
     <a href="https://github.com/iAneesAhmad"><img alt="Anees's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iAneesAhmad&show_icons=true&count_private=true&border_color=9DAAF2&bg_color=09131B&title_color=FF652F&icon_color=F8D866&text_color=FFFFFF" height="192px" width="49.5%"/></a>
   <a href="https://github.com/iAneesAhmad"><img alt="Anees's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iAneesAhmad&langs_count=8&layout=compact&border_color=9DAAF2&bg_color=09131B&text_color=FFFFFF&title_color=FF652F&icon_color=F8D866" height="192px" width="49.5%"/></a>
