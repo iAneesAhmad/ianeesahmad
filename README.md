@@ -18,7 +18,7 @@
   <a href="https://linkedin.com/in/ianeesahmad" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://patreon.com/AneesAhmad" title="Patreon">
-    <img src="https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white&bgColor=green"/></a>
 </p>
 <br />
 
