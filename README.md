@@ -1,6 +1,7 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/.svg)](https://wakatime.com/@) -->
 
-![GitHub User's stars](https://img.shields.io/github/stars/ianeesahmad?label=Total%20Stars&color=FF6A3D)
+![GitHub User's stars](https://img.shields.io/github/stars/ianeesahmad)
+
 
 <!-- Intro  -->
 <h3 align="center">
