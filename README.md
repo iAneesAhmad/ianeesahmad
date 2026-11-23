@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white"/></a>
   <a href="https://instagram.com/iAneesAhmad.pk" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-  <a href="https://whatsapp.com/channel/0029Vb6cghc1t90fuRXoB70x" title="WhatsApp Channel">
+  <a href="https://whatsapp.com/channel/0029VbDrm9zJP21AswLpaE1u" title="WhatsApp Channel">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/></a>
 </p>
 <br />
