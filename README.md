@@ -10,7 +10,7 @@
 </b>
 </h3>
 <p align="center">
-<a href="https://anees-ahmad.com"><img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=600&size=30&pause=1000&color=00FDAD&center=true&vCenter=true&width=435&lines=Founder+@+XevenSoft;Entrepreneur+and+AI+Strategist;Helping+Small+Businesses;Grow+up+to+10X+through;Branding;Design;and+Strategy" alt="Entrepreneur & AI Strategist" /></a>
+<a href="https://anees-ahmad.com"><img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=600&size=30&pause=1000&color=00FDAD&center=true&vCenter=true&width=435&lines=Founder+@+XevenSoft;Entrepreneur+and+AI+Strategist;Helping+Small+Businesses+Grow+up+to+10X+through;Branding+Design+and+Strategy" alt="Entrepreneur & AI Strategist" /></a>
 </p>
 
 <p align="center">
